@@ -1,16 +1,22 @@
-# gestion_dettes
+Application Flutter – Gestion de Dettes
 
-A new Flutter project.
+Une application Flutter simple pour gérer les dettes des clients, avec une API REST simulée via JSON Server.
 
-## Getting Started
+# 3 Fonctionnalités
+- Lister les clients
+- Voir les dettes d’un client
+- Ajouter une nouvelle dette
+- Backend simulé avec `json-server (json-server --watch db.json --host 0.0.0.0 --port 3000)` 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies
+- Flutter
+- Dart
+- JSON Server
+- GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Lancer le projet
+```bash
+flutter pub get
+flutter run -d chrome
