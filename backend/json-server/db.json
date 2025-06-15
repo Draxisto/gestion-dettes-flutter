@@ -1,0 +1,55 @@
+{
+    "clients": [
+      {
+        "id": 1,
+        "nomComplet": "Jean Dupont",
+        "telephone": "0700112233",
+        "dettes": [
+          { "id": 1, "montant": 10000, "date": "2024-06-01" },
+          { "id": 2, "montant": 5000, "date": "2024-06-05" },
+          { "id": 3, "montant": 7500, "date": "2024-06-08" }
+        ]
+      },
+      {
+        "id": 2,
+        "nomComplet": "Amina Sow",
+        "telephone": "0700223344",
+        "dettes": [
+          { "id": 1, "montant": 12000, "date": "2024-06-03" },
+          { "id": 2, "montant": 3000, "date": "2024-06-06" },
+          { "id": 3, "montant": 8500, "date": "2024-06-10" }
+        ]
+      },
+      {
+        "id": 3,
+        "nomComplet": "Paul Kamdem",
+        "telephone": "0700334455",
+        "dettes": [
+          { "id": 1, "montant": 7000, "date": "2024-06-02" },
+          { "id": 2, "montant": 4500, "date": "2024-06-07" },
+          { "id": 3, "montant": 10000, "date": "2024-06-09" }
+        ]
+      },
+      {
+        "id": 4,
+        "nomComplet": "Fatou Ndiaye",
+        "telephone": "0700445566",
+        "dettes": [
+          { "id": 1, "montant": 6000, "date": "2024-06-04" },
+          { "id": 2, "montant": 2000, "date": "2024-06-06" },
+          { "id": 3, "montant": 4000, "date": "2024-06-08" }
+        ]
+      },
+      {
+        "id": 5,
+        "nomComplet": "Ismael Traoré",
+        "telephone": "0700556677",
+        "dettes": [
+          { "id": 1, "montant": 11000, "date": "2024-06-05" },
+          { "id": 2, "montant": 9500, "date": "2024-06-07" },
+          { "id": 3, "montant": 3000, "date": "2024-06-11" }
+        ]
+      }
+    ]
+  }
+  
